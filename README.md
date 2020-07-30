@@ -1,2 +1,3 @@
 # python-sharing
 This is for self-learning Python. 
+Pandas, Numpy, Seaborn, Matplotlib.... 
