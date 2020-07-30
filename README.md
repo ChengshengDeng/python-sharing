@@ -1,2 +1,2 @@
 # python-sharing
-Python Learning 
+This is for self-learning Python. 
